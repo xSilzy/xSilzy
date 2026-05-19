@@ -56,6 +56,7 @@
     &nbsp&nbsp•&nbsp&nbsp;
     <a href="https://discord.com">[Discord | @Silzy]</a>
 </div>
+<br>
 <p align="center">
   <img src="./assets/images/cat_sleep.png" alt="sleeping cat" height="128">
 </p>
