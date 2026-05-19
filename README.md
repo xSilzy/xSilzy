@@ -51,6 +51,11 @@
 ---
 
 <!-- Footer -->
+<div align="center">
+    <a href="https://x.com/xSilzy">[Twitter/X | @xSilzy]</a>
+    &nbsp&nbsp•&nbsp&nbsp;
+    <a href="https://discord.com">[Discord | @Silzy]</a>
+</div>
 <p align="center">
   <img src="./assets/images/cat_sleep.png" alt="sleeping cat" height="128">
 </p>
