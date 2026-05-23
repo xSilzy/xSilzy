@@ -4,7 +4,7 @@
 
 <img src="assets/headers/sub/roadmap_sub_header.png" alt="Roadmap" height="28">
 
-* **Current Goal:** Breaking down backend logic by coding a highly modular Java item system.
+* **Current Goal:** Learning backend logic by coding my own modular Item system.
 * **Next Up:** Studying engine architecture, math patterns, and structural planning.
 * **The Big Goal (Early / Mid 2027):** Building a custom game engine from scratch to see how it all connects.
 
