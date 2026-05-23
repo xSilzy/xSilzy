@@ -63,8 +63,8 @@
   <a href="https://github.com/xSilzy/GuessingGame">View Code →</a>
 
 - **CLI Combination Calculator** - A simple command-line tool to calculate combinations (using the nCr formula) that i made for practice. Built in Java.
-<br>
-<a href="https://github.com/xSilzy/CLI-Combination-Calculator">View Code →</a>
+  <br>
+  <a href="https://github.com/xSilzy/CLI-Combination-Calculator">View Code →</a>
 
 - **RPG Style Character Config** - A little project I made to get more familiar with Java and its different features (Classes/ Subclasses, Enums, Interfaces etc.).
   <br>
