@@ -74,6 +74,7 @@
   <br>
   <a href="https://github.com/xSilzy/PingPong">View Code →</a>
 
+  <a href="https://github.com/xSilzy?tab=repositories">more...</a>
 ---
 
 <!-- Footer -->
