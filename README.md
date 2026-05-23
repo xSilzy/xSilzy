@@ -43,7 +43,7 @@
 
 [//]: # (            <p>Lorem ispum dolor sit amet, consectetur adipiscing elit.</p>)
 
-[//]: # (            <a href="REPO_LINK_HERE">View Code →</a>)
+[//]: # (            <a href="REPO_LINK_HERE" target="_blank">View Code →</a>)
 
 [//]: # (        </td>)
 
@@ -60,21 +60,21 @@
 
 - **Number Guessing Game** - A Simple Worldle inspired number guessing game coded in Rust!
   <br>
-  <a href="https://github.com/xSilzy/GuessingGame">View Code →</a>
+  <a href="https://github.com/xSilzy/GuessingGame" target="_blank">View Code →</a>
 
 - **CLI Combination Calculator** - A simple command-line tool to calculate combinations (using the nCr formula) that i made for practice. Built in Java.
   <br>
-  <a href="https://github.com/xSilzy/CLI-Combination-Calculator">View Code →</a>
+  <a href="https://github.com/xSilzy/CLI-Combination-Calculator" target="_blank">View Code →</a>
 
 - **RPG Style Character Config** - A little project I made to get more familiar with Java and its different features (Classes/ Subclasses, Enums, Interfaces etc.).
   <br>
-  <a href="https://github.com/xSilzy/rpg-style-character-config">View Code →</a>
+  <a href="https://github.com/xSilzy/rpg-style-character-config" target="_blank">View Code →</a>
 
 - **Ping Pong** - My first ever attempt at making a video game!
   <br>
-  <a href="https://github.com/xSilzy/PingPong">View Code →</a>
+  <a href="https://github.com/xSilzy/PingPong" target="_blank">View Code →</a>
 
-  <a href="https://github.com/xSilzy?tab=repositories">more...</a>
+  <a href="https://github.com/xSilzy?tab=repositories" target="_blank">more...</a>
 ---
 
 <!-- Footer -->
