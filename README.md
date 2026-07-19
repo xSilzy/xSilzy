@@ -4,15 +4,17 @@
 
 <img src="assets/headers/sub/roadmap_sub_header.png" alt="Roadmap" height="28">
 
-* **Current Goal:** Learning backend logic by coding my own modular Item system.
-* **Next Up:** Studying engine architecture, math patterns, and structural planning.
+* **Current Goal:** Making a [music tagger](https://github.com/xSilzy/LightTagger) in Python to sort my music library!
+* **Next Up:**
+  * Learning minecraft fabric modding
+  * Create my own set of QOL minecraft mods
 * **The Big Goal (Early / Mid 2027):** Building a custom game engine from scratch to see how it all connects.
 
 ---
 <!-- Skillsets -->
 <img src="assets/headers/sub/skillsets_sub_header.png" alt="Roadmap" height="28">
 
-**Languages:** Java (*Primary*), Rust (*Learning*)
+**Languages:** Java (*Primary*), Rust (*Learning*), Python
 <br>
 **Tools & IDEs:** JetBrains IDEs (*Primary*), GitHub, Figma, Godot (*Learning*)
 <br>
