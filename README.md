@@ -61,7 +61,7 @@
 <!-- Projects -->
 <img src="assets/headers/sub/projects_sub_header.png" alt="Projects" height="28">
 
-- **YAZM: Yet Another Zoom Mod** - A lightweight and highly customizable zoom mod for Minecraft fabric!!
+- **YAZM: Yet Another Zoom Mod** - A lightweight and highly customizable zoom mod for Minecraft fabric!
   <br>
   <a href="https://github.com/xSilzy/yet-another-zoom-mod" target="_blank">View Code →</a>
 
