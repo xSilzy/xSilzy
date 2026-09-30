@@ -4,7 +4,7 @@
 
 <img src="assets/headers/sub/roadmap_sub_header.png" alt="Roadmap" height="28">
 
-* **Current Goal:** Learning Minecraft Fabric modding by building a highly feature packed zoom mod called [YAZM](https://github.com/xSilzy/yet-another-zoom-mod)! 
+* **Current Goal:** Learning Minecraft Fabric modding by building a highly feature packed zoom mod called [Reticle](https://github.com/xSilzy/Reticle)! 
 * **Next Up:**
   * Creating my own HUD mod.
   * Create an ingame mod manager for my Minecraft mods
@@ -61,9 +61,9 @@
 <!-- Projects -->
 <img src="assets/headers/sub/projects_sub_header.png" alt="Projects" height="28">
 
-- **YAZM: Yet Another Zoom Mod** - A lightweight and highly customizable zoom mod for Minecraft fabric!
+- **Reticle** - A lightweight and highly customizable zoom mod for Minecraft fabric!
   <br>
-  <a href="https://github.com/xSilzy/yet-another-zoom-mod" target="_blank">View Code →</a>
+  <a href="https://github.com/xSilzy/Reticle" target="_blank">View Code →</a>
 
 - **Number Guessing Game** - A Simple Worldle inspired number guessing game coded in Rust!
   <br>
