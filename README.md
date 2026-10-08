@@ -15,9 +15,9 @@
 <!-- Skillsets -->
 <img src="assets/headers/sub/skillsets_sub_header.png" alt="Roadmap" height="28">
 
-**Languages:** Java (*Primary*), Rust (*Learning*), Python
+**Languages:** Java (*Primary*), Python, Rust (*Learning*) 
 <br>
-**Tools & IDEs:** JetBrains IDEs (*Primary*), GitHub, Figma, Godot (*Learning*)
+**Tools & IDEs:** JetBrains IDEs (*Primary*), GitHub, Figma, Godot (*Learning*), Gram (*Learning*)
 <br>
 **Environment:** Windows 11
 
@@ -69,7 +69,7 @@
   <br>
   <a href="https://github.com/xSilzy/GuessingGame" target="_blank">View Code →</a>
 
-- **CLI Combination Calculator** - A simple command-line tool to calculate combinations (using the nCr formula) that i made for practice. Built in Java.
+- **CLI Combination Calculator** - A simple command-line tool to calculate combinations (using the nCr formula) that I made for practice. Built in Java.
   <br>
   <a href="https://github.com/xSilzy/CLI-Combination-Calculator" target="_blank">View Code →</a>
 
